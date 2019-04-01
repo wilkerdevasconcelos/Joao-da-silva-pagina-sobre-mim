@@ -1,0 +1,219 @@
+body {
+	font-family: "Crimson Text", "Times New Roman", serif;
+	background-color: #F2FFFC;
+	font-size: 120%;
+	line-height: 1.5;
+}
+
+h1,
+h2 {
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.titulo-principal {
+    font-size: 300%;
+    text-align: center;
+    background-color: #851944;
+    color: #FFF;
+    padding: 1.25rem;
+    border-bottom: .5rem solid #000;
+}
+
+.subtitulo-texto {
+    font-size: 30px;
+    clear: both;
+}
+
+main a {
+    color: #851944;
+}
+
+main p {
+    text-align: justify;
+    margin: 20px;
+}
+
+.navegacao-site {
+	text-align: center;
+	background-color: #3C1D3D;
+	color: #F2FFFC;
+	padding: 25px;
+}
+
+.navegacao-site a {
+    color: inherit;
+    font-family: "Open Sans Condenced", "Arial", sans-serif;
+    text-transform: lowercase;
+}
+
+.navegacao-site h1 {
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+.rodape-pagina {
+    background-color: #000;
+    color: #F2FFFC;
+    padding: 20px;
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px 0;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+.icones-sociais li {
+    display: inline-block;
+}
+
+.icones-sociais a {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-indent: -9999px;
+}
+
+.github {
+    background-image: url(../imagens/github.png);
+}
+
+.twitter {
+    background-image: url(../imagenstwitter.png);
+}
+
+.linkedin {
+    background-image: url(../imagenslinkedin.png);
+}
+
+main {
+    width: 85%;
+    float: left;
+    padding-bottom: 80px;
+}
+
+.minha-foto,
+.navegacao-site {
+    box-sizing: border-box;
+    border-left:  10px solid black;
+    border-bottom:  10px solid black;
+}
+
+.navega-site {
+    width: 14%;
+    float: right;
+    position: relative;
+    top: 300px;
+}
+.minha-foto {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 300px
+}
+
+
+
+
+
+
+
+
+blockquote {
+	background-color: #D9E5E3;
+	border: 10px solid #C2CCCA;
+	width: 250px;
+	box-sizing: border-box;
+	margin: 20px 40px;
+}
+
+aside {
+	background-color: #3C1D3D;
+	color: #F2FFFC;
+}
+
+footer {
+	background-color: #000;
+	color: #F2FFFC;
+}
+nav a {
+	color: #F2FFFC;
+}
+
+aside a {
+	color: inherit;
+	font-family: "Open Sans Condensed", sans-serif;
+}
+
+blockquote, aside, footer {
+    padding: 20px;
+}
+
+main div {
+	width: 720px;
+	margin: auto;
+	padding: 30px 0;
+}
+
+aside {
+	text-align: center;
+}
+
+aside h1 {
+	font-size: 30px;
+	margin-bottom: 25px;
+}
+
+
+h2 {
+	font-size: 30px;
+}
+
+article {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.leia-mais {
+    padding: 8px;
+    margin: 16px;
+    display: block;
+    font-size: 24px;
+    text-align: center;
+    background-color: #E6E7E8;
+}
+
+
+
+
+.citacao-bio {
+    background-color: #D9E5E3;
+    border: .5em solid #C2CCCA;
+    padding: 1em;
+    margin: 1em 2em;
+    width: 30ch;
+    box-sizing: border-box;
+}
+
+
+
