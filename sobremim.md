@@ -1,0 +1,3 @@
+# Joao-da-silva-pagina-sobre-mim
+Nesta pagina desenvolvi uma pagina ultilizando html5,css3,javascript,jquery
+Onde desde o  inicio buscamos obedecer os elementos extruturais,design etc...
